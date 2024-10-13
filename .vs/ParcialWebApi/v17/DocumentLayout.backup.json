@@ -1,37 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Windows\\Desktop\\412304_facundo_nicolas_guzman_olariaga\\ParcialWebApi\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|c:\\users\\windows\\desktop\\412304_facundo_nicolas_guzman_olariaga\\parcialwebapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Windows\\Desktop\\412304_facundo_nicolas_guzman_olariaga\\git\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "README.MD",
-              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\412304_facundo_nicolas_guzman_olariaga\\ParcialWebApi\\README.MD",
-              "RelativeDocumentMoniker": "README.MD",
-              "ToolTip": "C:\\Users\\Windows\\Desktop\\412304_facundo_nicolas_guzman_olariaga\\ParcialWebApi\\README.MD*",
-              "RelativeToolTip": "README.MD*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-10-13T03:03:56.045Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
