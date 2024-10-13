@@ -1,12 +1,12 @@
- 1 - Copiar y renombrar ```.env.example``` a ```.env``` y definir contraseña
+### 1- Cambiar contraseña variable de entorno .env.example
 
-2 - Correr imagen SQL Server docker
-```
-docker-compose up -d
-```
-## Para conectarse a SQL Server
+
+## Correr docker
+sql
+
+
 * Servidor: localhost
 * Usuario: sa
 * Contraseña:  lo que hayas definido en tu archivo .env
 
-![Descripción de la imagen](Captura_de_pantalla_2024-10-07.jpg)
+
